@@ -1,0 +1,6 @@
+# Django migrations
+**/migrations/__pycache__/
+
+# Local environment/database settings
+.env
+db.sqlite3
